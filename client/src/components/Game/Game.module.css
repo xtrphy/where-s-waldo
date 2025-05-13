@@ -1,0 +1,10 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.level {
+    width: 100%;
+    cursor: crosshair;
+}
